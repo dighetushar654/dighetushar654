@@ -9,18 +9,6 @@
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-<a href="www.linkedin.com/in/tushar-dighe-88a1a0175">
-  <img align="left" alt="Tushar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
-
-Hi, I'm [Tushar Dighe](www.linkedin.com/in/tushar-dighe-88a1a0175)
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@tushardighe](www.linkedin.com/in/tushar-dighe-88a1a0175);
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -38,8 +26,3 @@ JavaScript   41 mins         ███████▒░░░░░░░░░
 Other        21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 ```
 <!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
