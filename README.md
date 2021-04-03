@@ -1,4 +1,4 @@
-### Hii , I'm  Tushar Dighe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="header_en.svg"></img>
 
 - 🌱 I’m currently learning Full Stack Development.
 - 👯 I’m looking to collaborate on YouTube.
