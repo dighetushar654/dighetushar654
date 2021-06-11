@@ -19,6 +19,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=dighetushar654&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h2> My GitHub Stats </h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dighetushar654&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="dighetushar654">
+<img src="https://github-readme-stats.vercel.app/api?username=dighetushar654&show_icons=true&count_private=true&&theme=highcontrast">
 <img src= https://activity-graph.herokuapp.com/graph?username=dighetushar654&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true>
+<img src= https://metrics.lecoq.io/dighetushar654>  
