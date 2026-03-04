@@ -1,12 +1,16 @@
 <img src="header_en.svg"></img>
 
+## Hi there, I'm Tushar Dighe 👋
+
+### DevOps & DevSecOps Engineer | Cloud Infrastructure Specialist
+
 I'm a results-driven DevOps Engineer with **4+ years of experience** designing and automating scalable CI/CD pipelines and cloud infrastructure. Currently working at **Infivit Technologies**, where I architect secure, compliant infrastructure for enterprise clients.
 
 ---
 
 ### 🔭 What I Do
 
-- 🛡️  **DevSecOps**: Implementing zero-trust security models, achieving SOC 2 & HIPAA compliance
+- 🛡️ **DevSecOps**: Implementing zero-trust security models, achieving SOC 2 & HIPAA compliance
 - ☁️ **Cloud Architecture**: Designing and automating infrastructure on AWS, Azure, and GCP
 - 🚀 **CI/CD Automation**: Building end-to-end pipelines with Jenkins, GitHub Actions, GitLab CI
 - 🐳 **Container Orchestration**: Managing production workloads on Kubernetes (EKS, GKE)
@@ -24,7 +28,7 @@ I'm a results-driven DevOps Engineer with **4+ years of experience** designing a
 
 ---
 
-### 🛠️  Tech Stack
+### 🛠️ Tech Stack
 
 **Cloud Platforms:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -70,7 +74,72 @@ I'm a results-driven DevOps Engineer with **4+ years of experience** designing a
 
 - ✅ Reduced attack surface by **80%** through zero-trust security implementation
 - ✅ Achieved **95% reduction** in security vulnerabilities through automated scanning
+- ✅ Cut deployment time from **4+ hours to 15 minutes** with CI/CD automation
+- ✅ Reduced environment setup from **2 weeks to 2 hours** using Terraform IaC
+- ✅ Successfully completed **AWS-to-AWS migration** for multiple services in 3-4 weeks
+- ✅ Secured **SOC 2 and HIPAA compliance** for production data pipelines
 
-- ⚡ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+---
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+### 👯 Let's Collaborate
+
+- 💼 Open to collaborating on **DevOps**, **Cloud Architecture**, and **Security** projects
+- 🎥 Interested in creating content about **DevOps best practices** and **Infrastructure automation**
+- 💬 Ask me about **DevOps, Kubernetes, Terraform, CI/CD, Cloud Security**, or any tech-related topics
+
+---
+
+### 📫 How to Reach Me
+
+<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="dighetushar654">
+  <a class="LI-simple-link" href='https://in.linkedin.com/in/dighetushar654?trk=profile-badge'>𝐓𝐮𝐬𝐡𝐚𝐫 𝐃𝐢𝐠𝐡𝐞</a>
+</div>
+
+📧 Email: dighetushar654@gmail.com
+💼 LinkedIn: [linkedin.com/in/dighetushar654](https://in.linkedin.com/in/dighetushar654)
+🐙 GitHub: [@dighetushar654](https://github.com/dighetushar654)
+📍 Location: Nashik, Maharashtra, India
+
+---
+
+### ☕ Support My Work
+
+If you find my projects helpful or want to support my open-source contributions, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dighetushar654&show_icons=true&count_private=true&theme=highcontrast" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dighetushar654&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dighetushar654&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/dighetushar654" alt="Metrics" />
+</p>
+
+---
+
+### 📜 Certifications
+
+- 🎓 Certificate of Completion Expertise in Docker
+- 🎓 The Future of Automation - DevOps Assembly Lines
+- 🎓 DevOps - Automation Using Ansible
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dighetushar654&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/dighetushar654">Tushar Dighe</a></p>
