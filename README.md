@@ -110,36 +110,8 @@ If you find my projects helpful or want to support my open-source contributions,
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dighetushar654&show_icons=true&count_private=true&theme=highcontrast" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dighetushar654&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dighetushar654&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/dighetushar654" alt="Metrics" />
-</p>
-
----
-
 ### 📜 Certifications
 
 - 🎓 Certificate of Completion Expertise in Docker
 - 🎓 The Future of Automation - DevOps Assembly Lines
 - 🎓 DevOps - Automation Using Ansible
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dighetushar654&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">⭐️ From <a href="https://github.com/dighetushar654">Tushar Dighe</a></p>
